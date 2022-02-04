@@ -1,2 +1,1 @@
-# financeiro-rocketSeat
-Financeiro rocketSeat
+# Financeiro-Rocketseat
